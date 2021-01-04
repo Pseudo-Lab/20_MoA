@@ -1,3 +1,7 @@
+input/
+3_stage_model/model/
+3_stage_model/processed/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
