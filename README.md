@@ -1,5 +1,10 @@
 # 20_Motion-of-Action
 
+![PseudoLab](https://img.shields.io/badge/Community-PseudoLab-ff69b4.svg)
+![Since](https://img.shields.io/badge/Since-2020-blueviolet.svg)
+![Language](https://img.shields.io/badge/Language-Python-blue.svg)
+![Kaggle](https://img.shields.io/badge/Interest-Kaggle-9cf.svg)
+
 이 github repository는 가짜연구소 1기 대회참가팀(신약개발)의 스터디 결과물입니다.
 
 Mechanisms of Action (MoA) Prediction - Can you improve the algorithm that classifies drugs based on their biological activity?
