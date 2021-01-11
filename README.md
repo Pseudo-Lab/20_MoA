@@ -11,14 +11,14 @@ Mechanisms of Action (MoA) Prediction - Can you improve the algorithm that class
 In order to solve the problem of multi-class classficiation, the code was refactored for reuse. And when there is non-labeled data, it can be used as 3-stgae.
 
 ### Contributors
-- 김찬란, 문성채, 박원준, 오휘건, 이현수
+- [김찬란](https://github.com/seriousran), 문성채, [박원준](https://github.com/WonJunPark), 오휘건, [이현수](https://github.com/soomiles)
 
 
 ### Contents
 1. [Gitbook](https://app.gitbook.com/@pseudo-lab/s/1st-moa/)
     1. Paper review
         1. [CPEM: Accurate cancer type classification based on somatic alterations using an ensemble of a random](https://app.gitbook.com/@pseudo-lab/s/1st-moa/paper-review/cpem-accurate-cancer-type-classification-based-on-somatic-alterations-using-an-ensemble-of-a-random)
-        2. TabNet
+        2. [TabNet](https://pseudo-lab.com/TabNet-9336b1657d524445bed38538dc1368d2)
     2. Notebook review
         1. [신약의 작용 메커니즘 예측 | 차근차근 완벽한 설명 | EDA에서 앙상블까지](https://app.gitbook.com/@pseudo-lab/s/1st-moa/notebook-review/moa-public-26th-solution)
         2. [Stacking & Blending](https://app.gitbook.com/@pseudo-lab/s/1st-moa/notebook-review/untitled)
@@ -34,9 +34,9 @@ In order to solve the problem of multi-class classficiation, the code was refact
         5. 8th solution
         6. [14th-solution](https://pseudo-lab.gitbook.io/1st-moa/solution-review/14th-solution)
         7. [Public 46th / Private 34th Solution](https://pseudo-lab.gitbook.io/1st-moa/solution-review/public-46th-private-34th-solution)
-2. 3-stage Model (Train/Inference code)
-3. TabNet (Train/Inference code)
-4. Ensemble
+2. [3-stage Model](https://github.com/Pseudo-Lab/20_MoA/tree/main/3_stage_model)
+3. [TabNet (Train/Inference code)](https://github.com/Pseudo-Lab/20_MoA/tree/main/tabnet)
+4. [Ensemble](https://github.com/Pseudo-Lab/20_MoA/blob/main/ensemble/Code%20for%20Blending.ipynb)
 
 
 ### What is 3-stage model?
